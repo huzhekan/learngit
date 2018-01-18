@@ -8,4 +8,4 @@ Git is free software distributed under the GPL.
 6
 7
 8
-
+Git is free software
